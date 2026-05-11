@@ -12,9 +12,10 @@ Feel free to create a pull request to add your own shapes :)
 Using a 2g 130mAh battery from Aliexpress, the total assembled weight comes in at just under 20g for me with ASA prints.
 
 Full BOM:
- - Access to a 3D Printer with ability to print ABS or ASA
+ - Access to a 3D Printer with ability to print ABS or ASA, print everything in base-mesh and the models for whatever shapes you want.
  - Roughly 200mm of 1.5mm OD carbon fiber rod or tube
  - 4x M1.2 threaded insert 2mm OD 2mm Length
  - 4x flat head M1.2 screw, 3-4mm length
- - 14x 2x4mm N52 rod magnet
+ - 14x 2x4mm N52 rod magnet for the base shell
+ - 7x 2x4mm N52 rod magnet for any additional modules (2x left, 3x right, 1x for each button)
  - Super glue
